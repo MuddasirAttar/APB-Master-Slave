@@ -1,6 +1,3 @@
-Sure! Here is an updated description that mentions the use of Xilinx Vivado:
-
----
 
 APB Master-Slave System
 
